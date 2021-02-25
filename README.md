@@ -22,7 +22,7 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 **Lab 05:** "Convolutional Neural Network (CNN) Classification" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_05%2Fml_lab_05.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_05/ml_colab_05.ipynb))
 
-**Lab 06:** "Residual Neural Network (RNN) Classification" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_06%2Fml_lab_06.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_06/ml_colab_06.ipynb))
+**Lab 06:** "Residual Neural Network (ResNet) Classification" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_06%2Fml_lab_06.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_06/ml_colab_06.ipynb))
 
 ## Getting Started
 
