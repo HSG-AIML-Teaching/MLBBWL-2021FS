@@ -75,4 +75,4 @@ Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks
 
 Pls. don't hesitate to send us all your questions using the course mail address: 
 
-aiml-teaching.ics@unisg.ch 
+aiml (minus) teaching (dot) ics (at) unisg (dot) ch 
