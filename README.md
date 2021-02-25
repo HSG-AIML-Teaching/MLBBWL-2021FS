@@ -28,7 +28,9 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 Install dependencies via `pip install -r requirements.txt`.
 
-## Further Options
+## Further Links
+
+Python and Jupyter Notebook Installation: [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://github.com/HSG-AIML/LabML/blob/main/ml_installation_guide.pptx)
 
 Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/HSG-AIML/LabML)
 
