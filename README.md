@@ -49,7 +49,8 @@ Similar to binder, you just have to click the Colab badge next to the Notebooks 
 (e.g., your login information for gmail) and you can use this service at no charge. 
 Two advantages of Colab are that (1) you can save your 
 Notebooks directly into your Google Drive and read data from there, and (2) Google provides you with some limited GPU capabilities
-free of charge (this will be an interesting feature for the coding challenge.)
+free of charge (this will be an interesting feature for the coding challenge). This last feature will save you time by making the
+training of deep artificial neural networks much faster.
 
 #### Local Python Installation
 
