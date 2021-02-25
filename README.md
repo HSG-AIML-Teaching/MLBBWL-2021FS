@@ -4,7 +4,7 @@ Welcome to the playground of the **Machine Learning** course offered in the Bach
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-![Course Banner](https://github.com/HSG-AIML/LabML/blob/master/banner.png)
+![Course Banner](https://github.com/HSG-AIML/LabML/blob/main/banner.png)
 
 This is currently work in progress so expect minor errors and some rough edges ;)
 
