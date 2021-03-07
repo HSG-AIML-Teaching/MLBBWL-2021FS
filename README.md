@@ -1,6 +1,6 @@
-## Bachelor BWL Course : "Machine Learning"
+## Bachelor BWL Course : Machine Learning
 
-Welcome to the playground of the **Machine Learning** course offered in the Bachelor of Arts in Business Administration at the University of St. Gallen. The content consists of a series of interactive Jupyter Notebook labs based on Python, IPython Notebook, and PyTorch.
+Welcome to the playground of the 6,126,1.00 *Machine Learning* course offered in the Bachelor of Arts in Business Administration at the University of St. Gallen. The content consists of a series of interactive Jupyter Notebook labs based on Python, IPython Notebook, and PyTorch.
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
