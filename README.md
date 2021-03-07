@@ -4,7 +4,7 @@ Welcome to the playground of the **Machine Learning** course offered in the Bach
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-![Course Banner](https://github.com/HSG-AIML/LabML/blob/main/banner.png)
+![Course Banner](https://github.com/HSG-AIML/LabML/blob/main/colorful_banner.jpg)
 
 This is currently work in progress so expect minor errors and some rough edges ;)
 
@@ -67,7 +67,7 @@ If you need help running Python and/or Jupyter Notebooks, please don't hesitate 
 
 ## Further Links
 
-Python and Jupyter Notebook Installation: [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://github.com/HSG-AIML/LabML/blob/main/ml_installation_guide.pptx)
+Python and Jupyter Notebook Installation: [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://github.com/HSG-AIML/LabML/blob/main/ml_installation_guide.pdf)
 
 Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/HSG-AIML/LabML)
 
@@ -75,4 +75,4 @@ Cloning the repository to Azure Notebooks: [![Azure Notebooks](https://notebooks
 
 Pls. don't hesitate to send us all your questions using the course mail address: 
 
-aiml-teaching.ics@unisg.ch 
+![Course E-mail](https://github.com/HSG-AIML/LabML/blob/main/course_email.png)
