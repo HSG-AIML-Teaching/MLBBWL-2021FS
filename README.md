@@ -8,21 +8,40 @@ Welcome to the playground of the 6,126,1.00 *Machine Learning* course offered in
 
 This is currently work in progress so expect minor errors and some rough edges ;)
 
-## Running the Lab Notebooks
+## Lab Notebooks
 
-**Lab 00:** "Testing the Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_00%2Fml_lab_00.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_00/ml_lab_00.ipynb))
+| Lab | Date         |Topic                                                                 | Launchers |
+|:---:|:------------:|----------------------------------------------------------------------|:--------:|
+|  00 | Prerequisite | Testing the Lab Environment                                          | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_00%2Fml_lab_00.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_00/ml_lab_00.ipynb)|
+|  01 | Prerequisite | Introduction to the Lab Environment                                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_01%2Fml_lab_01.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_01/ml_colab_01.ipynb)|
+|  02 | Prerequisite | Fundamentals of Python Programming                                   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_02%2Fml_lab_02.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_02/ml_colab_02.ipynb)|
+|  03 | April 21st | Support Vector Classification and Feature Engineering                  | Published after the lab |
+|  -  | April 28th | Self-Coding                                                            |  No lab   |
+|  04 |  May 5th   | Artificial Neural Network (ANN) Classification                         | Published after the lab |
+|  05 |  May 12th  | Convolutional Neural Network (CNN) Classification                      | Published after the lab |
+|  -  |  May 19th  | Self-Coding                                                            |  No lab   |
+|  -  |  May 26th  | Coding Challenge - Submission Deadline                                 |  No lab   |
 
-**Lab 01:** "Introduction to the Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_01%2Fml_lab_01.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_01/ml_colab_01.ipynb))
+## Bonus Labs
 
-**Lab 02:** "Fundamentals of Python Programming" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_02%2Fml_lab_02.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_02/ml_colab_02.ipynb))
+| Lab |Topic                                                                 | Launchers |
+|:---:|----------------------------------------------------------------------|:--------:|
+|  06 | Residual Neural Network (ResNet) Classification                      | Published after lab 05 |
 
-**Lab 03:** "Support Vector Classification and Feature Engineering" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_03%2Fml_lab_03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_03/ml_colab_03.ipynb))
 
-**Lab 04:** "Artificial Neural Network (ANN) Classification" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_04%2Fml_lab_04.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_04/ml_colab_04.ipynb))
+<!-- **Lab 00:** "Testing the Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_00%2Fml_lab_00.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_00/ml_lab_00.ipynb)) -->
 
-**Lab 05:** "Convolutional Neural Network (CNN) Classification" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_05%2Fml_lab_05.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_05/ml_colab_05.ipynb))
+<!-- **Lab 01:** "Introduction to the Lab Environment" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_01%2Fml_lab_01.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_01/ml_colab_01.ipynb)) -->
 
-**Lab 06:** "Residual Neural Network (ResNet) Classification" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_06%2Fml_lab_06.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_06/ml_colab_06.ipynb))
+<!-- **Lab 02:** "Fundamentals of Python Programming" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_02%2Fml_lab_02.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_02/ml_colab_02.ipynb)) -->
+
+<!-- **Lab 03:** "Support Vector Classification and Feature Engineering" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_03%2Fml_lab_03.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_03/ml_colab_03.ipynb)) -->
+
+<!-- **Lab 04:** "Artificial Neural Network (ANN) Classification" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_04%2Fml_lab_04.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_04/ml_colab_04.ipynb)) -->
+
+<!-- **Lab 05:** "Convolutional Neural Network (CNN) Classification" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_05%2Fml_lab_05.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_05/ml_colab_05.ipynb)) -->
+
+<!-- **Lab 06:** "Residual Neural Network (ResNet) Classification" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_06%2Fml_lab_06.ipynb), [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_06/ml_colab_06.ipynb)) -->
 
 ## Getting Started
 
