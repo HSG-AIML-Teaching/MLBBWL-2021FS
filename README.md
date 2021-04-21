@@ -4,7 +4,7 @@ Welcome to the playground of the 6,126,1.00 *Machine Learning* course offered in
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-![Course Banner](https://github.com/HSG-AIML/LabML/blob/main/colorful_banner.jpg)
+![Course Banner](https://github.com/HSG-AIML/LabML/blob/main/colorful_banner.png)
 
 This is currently work in progress so expect minor errors and some rough edges ;)
 
@@ -15,7 +15,7 @@ This is currently work in progress so expect minor errors and some rough edges ;
 |  00 | Prerequisite | Testing the Lab Environment                                          | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_00%2Fml_lab_00.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_00/ml_lab_00.ipynb)|
 |  01 | Prerequisite | Introduction to the Lab Environment                                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_01%2Fml_lab_01.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_01/ml_colab_01.ipynb)|
 |  02 | Prerequisite | Fundamentals of Python Programming                                   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_02%2Fml_lab_02.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_02/ml_colab_02.ipynb)|
-|  03 | April 21st | Support Vector Classification and Feature Engineering                  | Published after the lab |
+|  03 | April 21st | Support Vector Classification and Feature Engineering                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_03%2Fml_lab_03.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_03/ml_colab_03.ipynb)|
 |  -  | April 28th | Self-Coding                                                            |  No lab   |
 |  04 |  May 5th   | Artificial Neural Network (ANN) Classification                         | Published after the lab |
 |  05 |  May 12th  | Convolutional Neural Network (CNN) Classification                      | Published after the lab |
