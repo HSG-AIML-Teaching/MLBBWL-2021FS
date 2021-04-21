@@ -10,7 +10,7 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 ## Lab Notebooks
 
-| Lab | Date         |Topic                                                                 | Binder Launchers | Colab Launchers |
+| Lab | Date         |Topic                                                                 | Binder Launcher(s) | Colab Launcher(s) |
 |:---:|:------------:|----------------------------------------------------------------------|:--------:|:--------:|
 |  00 | Prerequisite | Testing the Lab Environment                                          | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_00%2Fml_lab_00.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_00/ml_lab_00.ipynb)|
 |  01 | Prerequisite | Introduction to the Lab Environment                                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_01%2Fml_lab_01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_01/ml_colab_01.ipynb)|
