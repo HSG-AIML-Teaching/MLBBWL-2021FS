@@ -16,10 +16,10 @@ This is currently work in progress so expect minor errors and some rough edges ;
 |  01 | Prerequisite | Introduction to the Lab Environment                                  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_01%2Fml_lab_01.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_01/ml_colab_01.ipynb)|
 |  02 | Prerequisite | Fundamentals of Python Programming                                   | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_02%2Fml_lab_02.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_02/ml_colab_02.ipynb)|
 |  03 | April 21st | Traditional Machine Learning I                | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_03%2Fml_lab_03.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_03/ml_colab_03.ipynb)|
-|  -  | April 28th | Traditional Machine Learning II  / Self-Coding   |  No lab   |  No lab   |
+|  -  | April 28th | Traditional Machine Learning II  / Self-Coding   |  Q&A lab   |  Q&A lab  |
 |  04 |  May 5th   | Deep Learning I - ANNs                        | To be published | To be published |
 |  05 |  May 12th  | Deep Learning II - CNNs                    | To be published | To be published |
-|  -  |  May 19th  | Self-Coding                                                            |  No lab   |  No lab   |
+|  -  |  May 19th  | Self-Coding                                                            |  Q&A lab  |  Q&A lab    |
 |  -  |  May 26th  | Coding Challenge - Submission Deadline                                 |  No lab   |  No lab   |
 
 ## Bonus Labs
