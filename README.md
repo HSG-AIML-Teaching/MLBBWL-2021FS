@@ -18,7 +18,7 @@ This is currently work in progress so expect minor errors and some rough edges ;
 |  03 | April 21st | Traditional Machine Learning I                | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_03%2Fml_lab_03.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/master/lab_03/ml_colab_03.ipynb)|
 |  -  | April 28th | Traditional Machine Learning II  / Self-Coding   |  Q&A lab   |  Q&A lab  |
 |  04 |  May 5th   | Deep Learning I - ANNs                        | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_04%2Fml_lab_04.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/main/lab_04/ml_colab_04.ipynb) |
-|  05 |  May 12th  | Deep Learning II - CNNs                    | To be published | To be published |
+|  05 |  May 12th  | Deep Learning II - CNNs                    | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML/LabML/main?filepath=lab_05%2Fml_lab_05.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML/LabML/blob/main/lab_05/ml_colab_05.ipynb) |
 |  -  |  May 19th  | Self-Coding                                                            |  Q&A lab  |  Q&A lab    |
 |  -  |  May 26th  | Coding Challenge - Submission Deadline                                 |  No lab   |  No lab   |
 
